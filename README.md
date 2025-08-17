@@ -27,7 +27,7 @@ It includes completed **courses, labs, and quizzes** along with earned badges.
 - Generative AI Applications Quiz  
 
 ## Badges & Achievements
-[![Google Cloud Skills Boost](https://www.cloudskillsboost.google/profile/badges)  
+[Google Cloud Skills Badges](https://www.cloudskillsboost.google/profile/badges)  
 
 ✔Completed multiple **labs, quizzes, and courses**  
 ✔Gained hands-on experience with **Vertex AI, Cloud Storage, BigQuery, and RAG pipelines**  
